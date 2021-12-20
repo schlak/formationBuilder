@@ -1,0 +1,1 @@
+Formation Builder will be a tool that should make it easy to conviniandly plan an document the position of couples during a choreo.
